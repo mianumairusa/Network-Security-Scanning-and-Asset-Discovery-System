@@ -28,5 +28,3 @@ This system helps identify exposed services and supports proactive cybersecurity
 - 🖥️ Interactive dashboard (Streamlit)  
 
 ---
-
-## ⚙️ System Architecture
